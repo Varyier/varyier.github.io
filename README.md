@@ -1,5 +1,5 @@
 
-varyier.github.io - website with my portfolio
+https://varyier.github.io - website with my portfolio
 
 
 -------------------------------------------------------------------------------------------
