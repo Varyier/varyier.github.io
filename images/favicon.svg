@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="favicon.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg1428"
-   version="1.1"
-   viewBox="0 0 32 32"
+   width="32mm"
    height="32mm"
-   width="32mm">
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1428"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="favicon.svg">
   <defs
      id="defs1422" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="0"
-     inkscape:window-x="78"
-     inkscape:window-height="1041"
-     inkscape:window-width="1375"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="416.69048"
-     inkscape:cx="354.44249"
-     inkscape:zoom="0.7"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="66.351607"
+     inkscape:cy="77.025462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1375"
+     inkscape:window-height="1041"
+     inkscape:window-x="78"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata1425">
     <rdf:RDF>
@@ -43,32 +43,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26981;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2069-4-2-3-8-0-5"
-       width="32"
-       height="32"
-       x="0"
+       ry="12.403548"
        y="-1.4210855e-14"
-       ry="3.4266143" />
+       x="0"
+       height="32"
+       width="32"
+       id="rect2069-4-2-3-8-0-5"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26981;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
-       id="text12"
-       y="25.477829"
-       x="10.848038"
+       xml:space="preserve"
        style="font-size:26.1182px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#d9d9d9;fill-opacity:1;stroke-width:0.691041"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#d9d9d9;fill-opacity:1;stroke-width:0.691041"
-         y="25.477829"
-         x="10.848038"
+       x="10.848038"
+       y="25.477829"
+       id="text12"><tspan
+         sodipodi:role="line"
          id="tspan10"
-         sodipodi:role="line">I</tspan></text>
+         x="10.848038"
+         y="25.477829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#d9d9d9;fill-opacity:1;stroke-width:0.691041">I</tspan></text>
   </g>
 </svg>
